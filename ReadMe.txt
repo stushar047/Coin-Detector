@@ -1,0 +1,16 @@
+There are 3 types of file in the folder:
+(1) Project_coin_detector. py: file will show how circle suppression 
+    algorithm help to remove redundant Circle. Use a and b value from the paper.
+(2) GUI_coin_detector.py: This is a GUI that will take a and b value as an input. 
+    and shows detected coins, number of coins and coins' diameter in the image.
+    Please set the a and value first and then run the select image with 
+    select image dialog box. Otherwise, it will show an error.
+(3) 4 input images: coins_w (a=20,b=10), Input (a=20,b=10), 
+    Overlapping (a=7,b=6), usacoins (a=4.5,b=3)
+
+If the code can not detect a circle, it will show an error.
+Try a and b value from the DIP_project.pdf and Large and small b value
+will make some redundant circle detection. 
+    
+    
+    
