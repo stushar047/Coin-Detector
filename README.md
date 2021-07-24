@@ -19,3 +19,5 @@ good results for the coin detection, diameter prediction
 and coin counting. Lastly, a graphical user interface has
 been developed to tune the minimum radius and
 maximum radius parameter.
+
+<img src='Pic3.jpg'>
