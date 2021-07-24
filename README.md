@@ -20,4 +20,9 @@ and coin counting. Lastly, a graphical user interface has
 been developed to tune the minimum radius and
 maximum radius parameter.
 
+<p align="center">
+<img src='Pic1.jpg' height="800" width="500">
+</p>  
+<p align="center">
 <img src='Pic3.jpg'>
+</p>  
